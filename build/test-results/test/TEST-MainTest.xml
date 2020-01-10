@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-10T19:51:49" hostname="DESKTOP-QPJNQET" time="0.009">
+  <properties/>
+  <testcase name="TestMain" classname="MainTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
